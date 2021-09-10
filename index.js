@@ -51,4 +51,4 @@ function alterarStatusEmCartaz(codigo, novoStatus) {
 }
 
 console.table(catalogo); 
-  teste
+  teste teste
